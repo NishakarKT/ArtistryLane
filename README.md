@@ -21,6 +21,6 @@
 
 # Important Links:
 
-1. Repo Link: 
-4. Hosted Link (Frontend):
-5. Hosted Link (Backend):
+1. Repo Link: https://github.com/NishakarKT/ArtistryLane
+4. Hosted Link (Frontend): https://artistry-lane.web.app/
+5. Hosted Link (Backend): https://artistrylane.onrender.com/
